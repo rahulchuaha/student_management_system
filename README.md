@@ -1,10 +1,12 @@
-Overview
+OVERVIEW:
+
 The Student Management System is a web-based application built with Spring Boot,
 MySQL database, Thymeleaf, and Lombok. It serves as a comprehensive solution for managing student information, providing functionalities such as creating,
 retrieving, updating, and deleting student records.
 
-Features
-Create Student: Add new students to the database with ease.
+FEATURES:
+
+Create Student:Add new students to the database with ease.
 Get Student: Retrieve detailed information about a student.
 Update Student: Modify existing student records effortlessly.
 Delete Student: Remove a student's information from the system securely.
